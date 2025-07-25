@@ -344,6 +344,7 @@ CLI 환경을 고려하여 `inquirer`를 사용한 입력, 콘솔 출력을 기�
 ### 실제 예시
 
 <img width="951" height="621" alt="스크린샷 2025-07-25 오후 12 57 48" src="https://gist.github.com/user-attachments/assets/7cd258db-30f4-42f3-b20f-dfad1fb488f7" />
+
 <img width="628" height="422" alt="스크린샷 2025-07-25 오후 1 29 50" src="https://gist.github.com/user-attachments/assets/0eff56f7-0de8-496c-a888-0464f5c6d69d" />
 
 ---
