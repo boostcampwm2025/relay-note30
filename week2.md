@@ -308,8 +308,18 @@ J046_김소연
 
 - 선택한 미션: **퀘스트 1: 질문 방식 개선**
 - 이유: 실제로 공부하거나 개발을 할 때 무작정 질문을 하면 정확히 얻고자하는 정보를 얻지 못해서, 여러번 질문을 반복하게 되는 경우가 많았다. 질문 전 고민을 통해 내가 이해한 범위를 파악하고, 스스로 문제를 정리할 수 있게 될 것 같다.
+<details>
+- Day11-12 미션에서 해당 퀘스트를 실천해보았다. 했던 질문 일부는 다음과 같다.   
+    <img width="883" height="599" alt="image" src="https://github.com/user-attachments/assets/be8b574a-30b1-42c0-9284-aa4cb48b2b0d" />
+    
+   <img width="926" height="671" alt="image" src="https://github.com/user-attachments/assets/a0dbfa67-7a04-4fef-942b-ea6fd0bb5f4a" />
+    
+   <img width="937" height="722" alt="image" src="https://github.com/user-attachments/assets/28e26218-5b11-487f-9a14-a92a107bab8b" />
 
-
+    
+- 느낀점
+    - 구체적으로 질문을 하려고하니, 내가 어디까지 이해했고 이해못한 부분이 무엇인지 알기 위해 평소보다 더 꼼꼼히 공부를 하게 되었다. 그리고 구체적인 질문에는 구체적인 정보를 제공해주니, 조금 더 깊게 개념에 대해 파악할 수 있는 것 같았다. AI를 효과적으로 사용하는 방법을 체득한 것 같아서 좋았다.
+</details>
 K021_임현정 
 - 선택한 미션: **퀘스트 2**
 - 선택 이유 : 미션을 2주 정도 수행을 하면서 어제보다 오늘의 내가 어떤 점에서 성장을 했는지, 
